@@ -54,6 +54,7 @@ nav ul li a:hover{
 .banner{
 	min-height: 450px;
 	background: url(../images/as.jpg);
+	background-repeat: no-repeat;
 }
 .box{
 	height: 300px;
@@ -161,16 +162,21 @@ footer p{
 
 i.fa-facebook{
     color: #4C69A3;
+    cursor: pointer;
 }
 
 i.fa-twitter-square{
     color:#1CA6E4;
+    cursor: pointer;
 }
 
 i.fa-google-plus-square{
     color: #CD4D37;
+    cursor: pointer;
+
 }
 
 i.fa-rss-square{
     color: #FA9A20;
+    cursor: pointer;
 }
