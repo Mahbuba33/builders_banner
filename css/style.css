@@ -55,6 +55,8 @@ nav ul li a:hover{
 	min-height: 450px;
 	background: url(../images/as.jpg);
 	background-repeat: no-repeat;
+	background-size: cover;
+	
 }
 .box{
 	height: 300px;
